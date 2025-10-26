@@ -1,0 +1,30 @@
+{
+  "surah_number": 109,
+  "surah_name": "Surah 109",
+  "ayahs": [
+    {
+      "number": 1,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/109/1.mp3"
+    },
+    {
+      "number": 2,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/109/2.mp3"
+    },
+    {
+      "number": 3,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/109/3.mp3"
+    },
+    {
+      "number": 4,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/109/4.mp3"
+    },
+    {
+      "number": 5,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/109/5.mp3"
+    },
+    {
+      "number": 6,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/109/6.mp3"
+    }
+  ]
+}

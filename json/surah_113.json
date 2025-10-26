@@ -1,0 +1,26 @@
+{
+  "surah_number": 113,
+  "surah_name": "Surah 113",
+  "ayahs": [
+    {
+      "number": 1,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/113/1.mp3"
+    },
+    {
+      "number": 2,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/113/2.mp3"
+    },
+    {
+      "number": 3,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/113/3.mp3"
+    },
+    {
+      "number": 4,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/113/4.mp3"
+    },
+    {
+      "number": 5,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/113/5.mp3"
+    }
+  ]
+}
