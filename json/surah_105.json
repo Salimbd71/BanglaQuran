@@ -1,0 +1,30 @@
+{
+  "surah_number": 105,
+  "surah_name": "Surah 105",
+  "ayahs": [
+    {
+      "number": 0,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/105/0.mp3"
+    },
+    {
+      "number": 1,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/105/1.mp3"
+    },
+    {
+      "number": 2,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/105/2.mp3"
+    },
+    {
+      "number": 3,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/105/3.mp3"
+    },
+    {
+      "number": 4,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/105/4.mp3"
+    },
+    {
+      "number": 5,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/105/5.mp3"
+    }
+  ]
+}

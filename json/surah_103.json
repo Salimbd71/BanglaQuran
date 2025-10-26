@@ -1,0 +1,22 @@
+{
+  "surah_number": 103,
+  "surah_name": "Surah 103",
+  "ayahs": [
+    {
+      "number": 0,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/103/0.mp3"
+    },
+    {
+      "number": 1,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/103/1.mp3"
+    },
+    {
+      "number": 2,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/103/2.mp3"
+    },
+    {
+      "number": 3,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/103/3.mp3"
+    }
+  ]
+}

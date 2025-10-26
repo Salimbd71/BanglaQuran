@@ -1,0 +1,26 @@
+{
+  "surah_number": 112,
+  "surah_name": "Surah 112",
+  "ayahs": [
+    {
+      "number": 0,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/112/0.mp3"
+    },
+    {
+      "number": 1,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/112/1.mp3"
+    },
+    {
+      "number": 2,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/112/2.mp3"
+    },
+    {
+      "number": 3,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/112/3.mp3"
+    },
+    {
+      "number": 4,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/112/4.mp3"
+    }
+  ]
+}

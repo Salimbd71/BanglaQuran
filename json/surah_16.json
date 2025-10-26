@@ -1,0 +1,522 @@
+{
+  "surah_number": 16,
+  "surah_name": "Surah 16",
+  "ayahs": [
+    {
+      "number": 0,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/0.mp3"
+    },
+    {
+      "number": 1,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/1.mp3"
+    },
+    {
+      "number": 10,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/10.mp3"
+    },
+    {
+      "number": 100,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/100.mp3"
+    },
+    {
+      "number": 101,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/101.mp3"
+    },
+    {
+      "number": 102,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/102.mp3"
+    },
+    {
+      "number": 103,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/103.mp3"
+    },
+    {
+      "number": 104,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/104.mp3"
+    },
+    {
+      "number": 105,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/105.mp3"
+    },
+    {
+      "number": 106,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/106.mp3"
+    },
+    {
+      "number": 107,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/107.mp3"
+    },
+    {
+      "number": 108,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/108.mp3"
+    },
+    {
+      "number": 109,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/109.mp3"
+    },
+    {
+      "number": 11,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/11.mp3"
+    },
+    {
+      "number": 110,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/110.mp3"
+    },
+    {
+      "number": 111,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/111.mp3"
+    },
+    {
+      "number": 112,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/112.mp3"
+    },
+    {
+      "number": 113,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/113.mp3"
+    },
+    {
+      "number": 114,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/114.mp3"
+    },
+    {
+      "number": 115,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/115.mp3"
+    },
+    {
+      "number": 116,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/116.mp3"
+    },
+    {
+      "number": 117,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/117.mp3"
+    },
+    {
+      "number": 118,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/118.mp3"
+    },
+    {
+      "number": 119,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/119.mp3"
+    },
+    {
+      "number": 12,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/12.mp3"
+    },
+    {
+      "number": 120,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/120.mp3"
+    },
+    {
+      "number": 121,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/121.mp3"
+    },
+    {
+      "number": 122,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/122.mp3"
+    },
+    {
+      "number": 123,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/123.mp3"
+    },
+    {
+      "number": 124,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/124.mp3"
+    },
+    {
+      "number": 125,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/125.mp3"
+    },
+    {
+      "number": 126,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/126.mp3"
+    },
+    {
+      "number": 127,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/127.mp3"
+    },
+    {
+      "number": 128,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/128.mp3"
+    },
+    {
+      "number": 13,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/13.mp3"
+    },
+    {
+      "number": 14,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/14.mp3"
+    },
+    {
+      "number": 15,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/15.mp3"
+    },
+    {
+      "number": 16,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/16.mp3"
+    },
+    {
+      "number": 17,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/17.mp3"
+    },
+    {
+      "number": 18,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/18.mp3"
+    },
+    {
+      "number": 19,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/19.mp3"
+    },
+    {
+      "number": 2,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/2.mp3"
+    },
+    {
+      "number": 20,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/20.mp3"
+    },
+    {
+      "number": 21,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/21.mp3"
+    },
+    {
+      "number": 22,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/22.mp3"
+    },
+    {
+      "number": 23,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/23.mp3"
+    },
+    {
+      "number": 24,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/24.mp3"
+    },
+    {
+      "number": 25,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/25.mp3"
+    },
+    {
+      "number": 26,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/26.mp3"
+    },
+    {
+      "number": 27,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/27.mp3"
+    },
+    {
+      "number": 28,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/28.mp3"
+    },
+    {
+      "number": 29,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/29.mp3"
+    },
+    {
+      "number": 3,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/3.mp3"
+    },
+    {
+      "number": 30,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/30.mp3"
+    },
+    {
+      "number": 31,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/31.mp3"
+    },
+    {
+      "number": 32,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/32.mp3"
+    },
+    {
+      "number": 33,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/33.mp3"
+    },
+    {
+      "number": 34,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/34.mp3"
+    },
+    {
+      "number": 35,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/35.mp3"
+    },
+    {
+      "number": 36,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/36.mp3"
+    },
+    {
+      "number": 37,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/37.mp3"
+    },
+    {
+      "number": 38,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/38.mp3"
+    },
+    {
+      "number": 39,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/39.mp3"
+    },
+    {
+      "number": 4,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/4.mp3"
+    },
+    {
+      "number": 40,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/40.mp3"
+    },
+    {
+      "number": 41,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/41.mp3"
+    },
+    {
+      "number": 42,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/42.mp3"
+    },
+    {
+      "number": 43,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/43.mp3"
+    },
+    {
+      "number": 44,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/44.mp3"
+    },
+    {
+      "number": 45,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/45.mp3"
+    },
+    {
+      "number": 46,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/46.mp3"
+    },
+    {
+      "number": 47,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/47.mp3"
+    },
+    {
+      "number": 48,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/48.mp3"
+    },
+    {
+      "number": 49,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/49.mp3"
+    },
+    {
+      "number": 5,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/5.mp3"
+    },
+    {
+      "number": 50,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/50.mp3"
+    },
+    {
+      "number": 51,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/51.mp3"
+    },
+    {
+      "number": 52,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/52.mp3"
+    },
+    {
+      "number": 53,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/53.mp3"
+    },
+    {
+      "number": 54,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/54.mp3"
+    },
+    {
+      "number": 55,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/55.mp3"
+    },
+    {
+      "number": 56,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/56.mp3"
+    },
+    {
+      "number": 57,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/57.mp3"
+    },
+    {
+      "number": 58,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/58.mp3"
+    },
+    {
+      "number": 59,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/59.mp3"
+    },
+    {
+      "number": 6,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/6.mp3"
+    },
+    {
+      "number": 60,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/60.mp3"
+    },
+    {
+      "number": 61,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/61.mp3"
+    },
+    {
+      "number": 62,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/62.mp3"
+    },
+    {
+      "number": 63,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/63.mp3"
+    },
+    {
+      "number": 64,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/64.mp3"
+    },
+    {
+      "number": 65,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/65.mp3"
+    },
+    {
+      "number": 66,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/66.mp3"
+    },
+    {
+      "number": 67,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/67.mp3"
+    },
+    {
+      "number": 68,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/68.mp3"
+    },
+    {
+      "number": 69,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/69.mp3"
+    },
+    {
+      "number": 7,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/7.mp3"
+    },
+    {
+      "number": 70,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/70.mp3"
+    },
+    {
+      "number": 71,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/71.mp3"
+    },
+    {
+      "number": 72,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/72.mp3"
+    },
+    {
+      "number": 73,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/73.mp3"
+    },
+    {
+      "number": 74,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/74.mp3"
+    },
+    {
+      "number": 75,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/75.mp3"
+    },
+    {
+      "number": 76,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/76.mp3"
+    },
+    {
+      "number": 77,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/77.mp3"
+    },
+    {
+      "number": 78,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/78.mp3"
+    },
+    {
+      "number": 79,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/79.mp3"
+    },
+    {
+      "number": 8,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/8.mp3"
+    },
+    {
+      "number": 80,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/80.mp3"
+    },
+    {
+      "number": 81,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/81.mp3"
+    },
+    {
+      "number": 82,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/82.mp3"
+    },
+    {
+      "number": 83,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/83.mp3"
+    },
+    {
+      "number": 84,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/84.mp3"
+    },
+    {
+      "number": 85,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/85.mp3"
+    },
+    {
+      "number": 86,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/86.mp3"
+    },
+    {
+      "number": 87,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/87.mp3"
+    },
+    {
+      "number": 88,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/88.mp3"
+    },
+    {
+      "number": 89,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/89.mp3"
+    },
+    {
+      "number": 9,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/9.mp3"
+    },
+    {
+      "number": 90,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/90.mp3"
+    },
+    {
+      "number": 91,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/91.mp3"
+    },
+    {
+      "number": 92,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/92.mp3"
+    },
+    {
+      "number": 93,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/93.mp3"
+    },
+    {
+      "number": 94,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/94.mp3"
+    },
+    {
+      "number": 95,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/95.mp3"
+    },
+    {
+      "number": 96,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/96.mp3"
+    },
+    {
+      "number": 97,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/97.mp3"
+    },
+    {
+      "number": 98,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/98.mp3"
+    },
+    {
+      "number": 99,
+      "audio": "https://cdn.jsdelivr.net/gh/Salimbd71/BanglaQuran@main/16/99.mp3"
+    }
+  ]
+}
