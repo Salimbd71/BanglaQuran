@@ -3,7 +3,7 @@
 Copyright (c) 2025 MD. Salim Hossain  
 Email: salimbd.ga@gmail.com
 
-All content in this repository (JSON files, scripts, text data, images, etc.) is either created by MD. Salim Hossain or sourced from public-domain/free-to-use resources.
+All content in this repository (JSON files, scripts, text data, images, etc.) is either created by MD. Salim Hossain or sourced from public-domain/free-to-use resources, also Bangladesh Islamic Foundation for Quran Bangla Audio.
 
 You are free to use, copy, modify, and redistribute for personal, educational, or commercial purposes **with proper attribution**.
 
