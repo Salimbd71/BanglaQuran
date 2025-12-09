@@ -1,19 +1,27 @@
-# BanglaQuran
-
-Copyright (c) 2025 MD. Salim Hossain  
+Copyright (c) 2025 MD. Salim Hossain
 Email: salimbd.ga@gmail.com
 
-## License
+License
+All content in this repository (including JSON files, scripts, text data, images, and other materials) is either:
+1. Created by MD. Salim Hossain, or
+2. Sourced from public-domain, free-to-use resources (e.g., EveryAyah.com, Islamic Network API, or other explicitly free materials).
 
-All Rights Reserved.
+You are free to:
+- Use
+- Copy
+- Modify
+- Redistribute
 
-This repository and all of its contents (JSON files, Audio files, scripts, text data, and other materials)
-are the intellectual property of MD. Salim Hossain.
+for personal, educational, or commercial purposes, **with proper attribution**.
 
-No part of this repository may be copied, distributed, modified, or used in any website, mobile app, software, API,
-or any digital or physical product without explicit written permission from the copyright owner.
+You may NOT:
+- Claim ownership of content that is not your original creation.
+- Upload or distribute copyrighted material without proper permission.
+- Use the repository in ways that violate third-party rights.
 
-### Commercial Use
+Attribution:
+If you use content from this repository, please provide proper credit:
+"Content from MD. Salim Hossain, 2025. Public-domain and free-to-use materials."
 
-If you wish to use any part of this content for commercial purposes,
-please contact the copyright owner at: salimbd.ga@gmail.com
+Commercial Use:
+Allowed under the conditions above.
